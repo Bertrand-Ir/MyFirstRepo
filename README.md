@@ -1,2 +1,2 @@
-# MyFirstRepository
-## First repository
+## first repository
+## GitHub learning task
